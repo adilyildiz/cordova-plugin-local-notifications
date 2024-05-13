@@ -540,14 +540,7 @@ See the sample app for how to use them.
 The plugin can be installed via [Cordova-CLI][CLI] and is publicly available on [NPM][npm].
 
 Execute from the projects root folder:
-
-    $ cordova plugin add cordova-plugin-local-notification
-
-Or install a specific version:
-
-    $ cordova plugin add cordova-plugin-local-notification@VERSION
-
-Or install the latest head version:
+install the latest head version:
 
     $ cordova plugin add https://github.com/katzer/cordova-plugin-local-notifications.git
 
